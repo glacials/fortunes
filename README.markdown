@@ -1,5 +1,6 @@
 Instructions
 ------------
 
-`git clone` into `/usr/share` to end up with `/usr/share/fortune`, the default path that fortune reads from.
+1. `git clone` into `/usr/share` to end up with `/usr/share/fortune`
+2. `/usr/share/fortune/strfile` to generate dat files
 
