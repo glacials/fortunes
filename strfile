@@ -1,3 +1,5 @@
 #!/bin/bash
 
-strfile doctorwho
+dir="$( cd "$( dirname "$0" )" && pwd )"
+
+strfile $dir/doctorwho
