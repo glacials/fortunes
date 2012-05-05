@@ -5,4 +5,5 @@ dir="$( cd "$( dirname "$0" )" && pwd )"
 strfile $dir/doctorwho
 strfile $dir/community
 strfile $dir/misc
+strfile $dir/parksandrecreation
 strfile $dir/stargate
